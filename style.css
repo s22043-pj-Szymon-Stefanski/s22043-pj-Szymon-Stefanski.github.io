@@ -248,7 +248,7 @@ body {
 .kontakt-img-box {
     background-image: linear-gradient( to right bottom, 
     rgba(0, 128, 0, 0.3), rgba(172, 255, 47, 0.3)) 
-    ,url("../s22043-pj-Szymon-Stefanski.github.io/back.png");
+    ,url("back.png");
     background-size: cover;
     background-position: center;
 }
